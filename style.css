@@ -1,0 +1,18 @@
+.simpsons {
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    background: peachpuff;
+    text-transform: uppercase;
+}
+img {
+    width: 200px;
+}
+.simps {
+    margin: 20px;
+    background: linen;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+}
